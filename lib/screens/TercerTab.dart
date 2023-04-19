@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:temperature/classes/Grados.dart';
+import 'package:temperature/classes/grados.dart';
 
 
 class TercerTab extends StatefulWidget {

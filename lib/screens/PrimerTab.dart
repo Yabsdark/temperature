@@ -1,7 +1,7 @@
 import 'dart:ffi';
 
 import 'package:flutter/material.dart';
-import 'package:temperature/classes/Grados.dart';
+import 'package:temperature/classes/grados.dart';
 
 class PrimerTab extends StatefulWidget {
   const PrimerTab({super.key});
